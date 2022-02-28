@@ -11,4 +11,4 @@ To install this app, you just have to clone the repository, and run npm i. You w
 ## Usage
 To use this app, use MySql Shell and run source db/schema.sql. Next open your terminal in the directory, and run node seeds/index.js to seed all the data, and finally run npm start, to start the server. Then just use a program like insomnia to use the routes.
 
-[Walkthrough](https://drive.google.com/file/d/1YVWx3HDDTgAL1M52CuMwadx6Jwe_npEN/view)
+[Walk-through](https://drive.google.com/file/d/1YVWx3HDDTgAL1M52CuMwadx6Jwe_npEN/view)
